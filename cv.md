@@ -4,35 +4,35 @@
 4. HTML5, CSS3, JavaScript, Git/GitHub, Figma, Communication, Event Managment, Project Management, Business Development, Digital Marketing, Brand Management, Web Project Management, Social Media Marketing, Copywriting, Organisation, Teamwork, Growth mindset, Emotional intelligence, Emphaty
 5. <code>
   <pre>
-    &lt;section class="portfolio" id="portfolio"&rt;
-                    &lt;div class="portfolio-container"&rt;
-                        &lt;div class="section-title"&rt;
-                            &lt;h2 class="section-portfolio"&rt;Portfolio&lt;/h2&rt;
-                        &lt;/div&rt;
-                    &lt;/div&rt;
-                    &lt;div class="section-button-portfolio"&rt;
-                    &lt;button class="button-portfolio"&rt;                           
+    &lt;section class="portfolio" id="portfolio"&gt;
+                    &lt;div class="portfolio-container"&gt;
+                        &lt;div class="section-title"&gt;
+                            &lt;h2 class="section-portfolio"&gt;Portfolio&lt;/h2&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class="section-button-portfolio"&gt;
+                    &lt;button class="button-portfolio"&gt;                           
                         Winter                           
-                    &lt;/button&rt;
-                    &lt;button class="button-portfolio"&rt;                           
+                    &lt;/button&gt;
+                    &lt;button class="button-portfolio"&gt;                           
                        Spring                           
-                    &lt;/button&rt;
-                    &lt;button class="button-portfolio"&rt;                           
+                    &lt;/button&gt;
+                    &lt;button class="button-portfolio"&gt;                           
                         Summer                          
-                    &lt;/button&rt;
-                    &lt;button class="button-portfolio"&rt;                           
+                    &lt;/button&gt;
+                    &lt;button class="button-portfolio"&gt;                           
                        Autumn                           
-                    &lt;/button&rt;      
-                &lt;/div&rt;
-                &lt;div class="section-img-portfolio"&rt;
-                    &lt;img src="./assets/img/photo6.jpg" alt="portfolio-img-6" class="img-portfolio"&rt;
-                    &lt;img src="./assets/img/photo5.jpg" alt="portfolio-img-5" class="img-portfolio"&rt;
-                    &lt;img src="./assets/img/photo4.jpg" alt="portfolio-img-4" class="img-portfolio"&rt;
-                    &lt;img src="./assets/img/photo3.jpg" alt="portfolio-img-3" class="img-portfolio"&rt;
-                    &lt;img src="./assets/img/photo2.jpg" alt="portfolio-img-2" class="img-portfolio"&rt;
-                    &lt;img src="./assets/img/photo1.jpg" alt="portfolio-img-1" class="img-portfolio"&rt;
-                &lt;/div&rt; 
-                &lt;/section&rt;
+                    &lt;/button&gt;      
+                &lt;/div&gt;
+                &lt;div class="section-img-portfolio"&gt;
+                    &lt;img src="./assets/img/photo6.jpg" alt="portfolio-img-6" class="img-portfolio"&gt;
+                    &lt;img src="./assets/img/photo5.jpg" alt="portfolio-img-5" class="img-portfolio"&gt;
+                    &lt;img src="./assets/img/photo4.jpg" alt="portfolio-img-4" class="img-portfolio"&gt;
+                    &lt;img src="./assets/img/photo3.jpg" alt="portfolio-img-3" class="img-portfolio"&gt;
+                    &lt;img src="./assets/img/photo2.jpg" alt="portfolio-img-2" class="img-portfolio"&gt;
+                    &lt;img src="./assets/img/photo1.jpg" alt="portfolio-img-1" class="img-portfolio"&gt;
+                &lt;/div&gt; 
+                &lt;/section&gt;
                 </pre>
   </code>
 6. Coding tests, projects from RS School courses, Codewars tasks
